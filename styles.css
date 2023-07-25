@@ -4,6 +4,7 @@ body{
 }
 .right{
 	text-align:right;
+	font-style:italic;
 }
 .div{
 	background-color:white;
