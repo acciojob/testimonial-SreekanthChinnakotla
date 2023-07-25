@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.right{
+	text-align:right;
+}
+.div{
+	background-color:white;
+	items-align:center;
+}
